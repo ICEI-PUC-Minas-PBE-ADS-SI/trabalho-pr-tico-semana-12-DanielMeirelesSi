@@ -1,7 +1,7 @@
 // Substitui o array local por carregamento dinâmico via JSON Server
 async function carregarFilmesDaAPI() {
   try {
-    const resposta = await fetch("http://localhost:3000/filmes");
+    const resposta = await fetch("http://localhost:3001/filmes");
     const filmes = await resposta.json();
 
     const destaques = filmes.filter(f => f.categoria === "destaque");
