@@ -5,24 +5,24 @@ Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e 
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Daniel Meireles Aquino Jorge
+- Matricula: 882875
+- Proposta de projeto escolhida: Catálogo de Filmes
+- Breve descrição sobre seu projeto: O Filmania foi criado como parte de um projeto da faculdade, mas também como uma forma de colocar em prática tudo que venho aprendendo sobre desenvolvimento web. A ideia era construir um catálogo de filmes organizado, com visual moderno e funcionalidade simples. Todo o conteúdo foi desenvolvido com HTML, CSS, Bootstrap e JavaScript. Cada detalhe, desde os filmes em destaque até o rodapé com informações do aluno, foi pensado para deixar o site bonito e fácil de navegar. Esse projeto representa um pouco da minha evolução na área e da vontade de continuar aprendendo e melhorando.
 
 **Print do testes da API com Postman ou similar**
 
-<<  COLOQUE A IMAGEM GET AQUI >>
+![Print da requisição Get](/public/assets/imagens/getbyid.png)
 
-<<  COLOQUE A IMAGEM POST AQUI >>
+![Print da requisição Post](/public/assets/imagens/post.png)
 
-<<  COLOQUE A IMAGEM PUT AQUI >>
+![Print da requisição Put](/public/assets/imagens/put.png)
 
-<<  COLOQUE A IMAGEM DELETE AQUI >>
+![Print da requisição Delete](/public/assets/imagens/delete.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR de POST**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print da aba Network com requisições Fetch/XHR de POST](/public/assets/imagens/fetchpost.png)
 
 ## **Orientações Gerais**
 
