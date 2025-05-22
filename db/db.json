@@ -269,7 +269,7 @@
       "categoria": "lancamento",
       "diretor": "Julius Onah",
       "data": "2025-07-25",
-      "duracao": "2h 15m (estimado)",
+      "duracao": "2h 15m",
       "elenco": "Anthony Mackie, Sebastian Stan, Harrison Ford",
       "trailer": "https://www.youtube.com/embed/U7JG6FMoEdM",
       "galeria": [
@@ -383,10 +383,6 @@
           "descricao": "Cassandra Nova"
         }
       ]
-    },
-    {
-      "id": "9b60",
-      "titulo": "teste"
     }
   ]
 }

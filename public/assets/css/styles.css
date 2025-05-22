@@ -472,7 +472,6 @@ table {
   border-collapse: collapse;
 }
 
-/* Melhorar contraste da tabela */
 table.table {
   background-color: #2c2c2c !important;
   color: white !important;
@@ -486,4 +485,21 @@ table.table th, table.table td {
   background-color: #2c2c2c !important;
   border: 1px solid #444 !important;
   color: white !important;  
+}
+input, textarea, select {
+  background-color: #1c1c1c !important;
+  color: #fff !important;
+  border: 1px solid #555;
+}
+::placeholder {
+  color: #888 !important;
+}
+.toast {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  z-index: 9999;
+}
+
+.toast.show {
+  opacity: 1;
 }
